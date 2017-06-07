@@ -1,0 +1,6 @@
+com/aem/odyssey/core/package-info.class
+com/aem/odyssey/core/filters/LoggingFilter.class
+com/aem/odyssey/core/models/HelloWorldModel.class
+com/aem/odyssey/core/schedulers/SimpleScheduledTask.class
+com/aem/odyssey/core/servlets/SimpleServlet.class
+com/aem/odyssey/core/listeners/SimpleResourceListener.class

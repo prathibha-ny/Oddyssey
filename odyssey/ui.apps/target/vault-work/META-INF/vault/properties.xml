@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Odyssey - UI apps</comment>
+<entry key="createdBy">icf8</entry>
+<entry key="name">odyssey.ui.apps</entry>
+<entry key="created">2017-06-07T18:31:49.697+0530</entry>
+<entry key="groupId">OdysseyApp</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">OdysseyApp</entry>
+<entry key="description">UI apps package for Odyssey</entry>
+<entry key="artifactId">odyssey.ui.apps</entry>
+<entry key="path">/etc/packages/OdysseyApp/odyssey.ui.apps.zip</entry>
+</properties>
