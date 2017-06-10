@@ -1,0 +1,32 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+#Misc
+*.class
+*.groovy
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+#Directories
+target/
+bin/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+
+*.war
+*.ear
