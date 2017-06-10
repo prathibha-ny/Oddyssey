@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1496840506436
-Build-Jdk: 1.8.0_60
-Built-By: icf8
+Bnd-LastModified: 1497067515164
+Build-Jdk: 1.8.0_102
+Built-By: Nagesh
 Bundle-Description: Core bundle for Odyssey
 Bundle-ManifestVersion: 2
 Bundle-Name: Odyssey - Core
@@ -22,11 +22,11 @@ Import-Package: javax.inject;version="0.0.0",org.apache.sling.models.ann
  ",org.apache.sling.api.resource;version="[2.5,3)",org.apache.sling.api.
  servlets;version="[2.1,3)",org.apache.sling.commons.osgi;version="[2.2,
  3)",org.apache.sling.settings;version="[1.3,2)",org.osgi.service.event;
- version="[1.2,2)",org.slf4j;version="[1.5,2)",com.day.cq.commons.jcr;ve
- rsion="[5.7.0,7.0.0)",com.day.cq.workflow.exec;version="[1.0,2)",com.da
- y.cq.replication;version="[6.0.0,7)",org.apache.sling.event.jobs;versio
- n="[1.5,2]",com.day.cq.workflow;version="[1.0,2)",com.day.cq.workflow.m
- etadata;version="[1.0,2)"
+ version="[1.2,2)",org.slf4j;version="[1.5,2)",org.apache.sling.event.jo
+ bs;version="[1.5,2]",com.day.cq.workflow.metadata;version="[1.0,2)",com
+ .day.cq.replication;version="[6.0.0,7)",com.day.cq.workflow.exec;versio
+ n="[1.0,2)",com.day.cq.workflow;version="[1.0,2)",com.day.cq.commons.jc
+ r;version="[5.7.0,7.0.0)"
 Provide-Capability: osgi.service;effective:=active;objectClass="javax.se
  rvlet.Servlet";service.vendor=Adobe,osgi.service;effective:=active;obje
  ctClass="java.lang.Runnable";scheduler.expression="*/30 * * * * ?";sche

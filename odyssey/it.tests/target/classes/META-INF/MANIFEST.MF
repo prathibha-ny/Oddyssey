@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1496840511808
-Build-Jdk: 1.8.0_60
-Built-By: icf8
+Bnd-LastModified: 1497067518446
+Build-Jdk: 1.8.0_102
+Built-By: Nagesh
 Bundle-Description: Bundles for Integration Tests for Odyssey
 Bundle-ManifestVersion: 2
 Bundle-Name: Odyssey - Integration Tests Bundles

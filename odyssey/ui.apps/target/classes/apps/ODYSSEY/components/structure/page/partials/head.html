@@ -13,8 +13,21 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 */-->
-<meta charset="utf-8" data-sly-use.head="head.js">
+
+
 <title>${currentPage.title || currentPage.name}</title>
+
+<!-- Meta-Tags -->
+<meta charset="utf-8" data-sly-use.head="head.js">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="${head.keywords}"/>
 <meta name="description" content="${properties.jcr:description}"/>
-<link data-sly-test="${head.favIcon}" rel="icon" href="${head.favIcon}"/>
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //Meta-Tags -->
+
+
+<!-- Fonts -->
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700"	   type="text/css" media="all">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500" type="text/css" media="all">
+<!-- //Fonts -->
